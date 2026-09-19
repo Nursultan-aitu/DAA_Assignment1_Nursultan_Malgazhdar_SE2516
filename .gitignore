@@ -1,0 +1,20 @@
+# Сборка Maven
+target/
+
+# IntelliJ IDEA (полностью игнорируем папку настроек и файлы проектов)
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Другие IDE и редакторы
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+
+# Операционные системы
+.DS_Store
+Thumbs.db
